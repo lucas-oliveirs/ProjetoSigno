@@ -1,0 +1,7 @@
+D:\ETEC\TPA\2 SEM\ProjetoSigno\ProjetoSigno\bin\Debug\ProjetoSigno.exe.config
+D:\ETEC\TPA\2 SEM\ProjetoSigno\ProjetoSigno\bin\Debug\ProjetoSigno.exe
+D:\ETEC\TPA\2 SEM\ProjetoSigno\ProjetoSigno\bin\Debug\ProjetoSigno.pdb
+D:\ETEC\TPA\2 SEM\ProjetoSigno\ProjetoSigno\obj\Debug\ProjetoSigno.csprojAssemblyReference.cache
+D:\ETEC\TPA\2 SEM\ProjetoSigno\ProjetoSigno\obj\Debug\ProjetoSigno.csproj.CoreCompileInputs.cache
+D:\ETEC\TPA\2 SEM\ProjetoSigno\ProjetoSigno\obj\Debug\ProjetoSigno.exe
+D:\ETEC\TPA\2 SEM\ProjetoSigno\ProjetoSigno\obj\Debug\ProjetoSigno.pdb
